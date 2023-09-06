@@ -17,7 +17,7 @@ const [items, setItems] = useState([
                 <div className="flex items-center justify-between">
                     <div className="leading-tight">
                        <h1 className="font-semibold text-marine-blue text-lg">Arcade (Monthly)</h1>
-                       <a className="text-cool-gray text-sm underline">Change</a>
+                       <button className="text-cool-gray text-sm underline">Change</button>
                     </div>
 
                     <div>

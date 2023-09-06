@@ -3,7 +3,7 @@ import icon from './assets/images/icon-thank-you.svg'
 const Summary = () => {
     return ( 
         <div>
-            <div className="absolute top-[50%] left-[50%] -translate-x-1/2 -translate-y-1/2 align-middle w-full">
+            <div className="lg:absolute lg:top-[50%] lg:left-[50%] lg:-translate-x-1/2 lg:-translate-y-1/2 w-full">
                 <div className="mb-3">
                     <img className="ml-auto mr-auto h-16 w-auto" src={icon}/>
                 </div>
